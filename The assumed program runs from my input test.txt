@@ -1,0 +1,10 @@
+pushHead(41, "Thommas");
+popHead();
+pushTail(12, "Nobita");
+pushHead(23, "Solomon");
+pushHead(13, "Giant");
+pushHead(19, "Hisoka");
+pushTail(11, "Gon");
+pushMid(16, "Hinata");
+popMid(12);
+popTail();
